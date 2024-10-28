@@ -23,7 +23,7 @@ body
 header
 {
 	width:100%; padding:15px 0px 0px;
-	float:left; background: blue;
+	float:left; background: red;
 }
 .mobile-togle{display:none;}
 .text {
