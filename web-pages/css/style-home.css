@@ -23,7 +23,7 @@ body
 header
 {
 	width:100%; padding:15px 0px 0px;
-	float:left; background: #212121;
+	float:left; background: red;
 }
 .mobile-togle{display:none;}
 .text {
@@ -34,7 +34,7 @@ header
 
 }
 .logo img {
-    border-right: 1px solid #BDFEF2;
+    border-right: 1px solid red;
     padding-right: 12px;width:220px;
 
 }
